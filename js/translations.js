@@ -58,14 +58,14 @@ const translations = {
 
     // ==================== HERO ====================
     "hero.badge": {
-        en: "🌿 Renewable Energy Innovation",
-        fr: "🌿 Innovation en Énergie Renouvelable",
-        ar: "🌿 ابتكار الطاقة المتجددة"
+        en: "🌿 Renewable Energy Innovations",
+        fr: "🌿 Innovations en Énergie Renouvelable",
+        ar: "🌿 ابتكارات الطاقة المتجددة"
     },
     "hero.title": {
-        en: 'Transforming <span class="highlight">Waste Oils</span><br>Into <span class="highlight">Clean Diesel</span>',
-        fr: 'Transformer les <span class="highlight">huiles usagées</span><br>en <span class="highlight">diesel propre</span>',
-        ar: 'تحويل <span class="highlight">الزيوت المستعملة</span><br>إلى <span class="highlight">ديزل نظيف</span>'
+        en: 'Converting <span class="highlight">Waste Oils</span><br>Into <span class="highlight">Premium Oil</span>',
+        fr: 'Conversion des <span class="highlight">huiles usagées</span><br>en <span class="highlight">huile premium</span>',
+        ar: 'تحويل <span class="highlight">الزيوت المستعملة</span><br>إلى <span class="highlight">زيت ممتاز</span>'
     },
     "hero.subtitle": {
         en: "ECO RECOVER OIL Converting used motor oils into premium oils high-quality — powering Algeria's green future.",
