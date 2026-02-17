@@ -1,5 +1,5 @@
-/* ============================================================
-   GREENOVA — Translations (English / French / Arabic)
+﻿/* ============================================================
+   ECO RECOVER OIL — Translations (English / French / Arabic)
    ============================================================ */
 
 const translations = {
@@ -68,9 +68,9 @@ const translations = {
         ar: 'تحويل <span class="highlight">الزيوت المستعملة</span><br>إلى <span class="highlight">ديزل نظيف</span>'
     },
     "hero.subtitle": {
-        en: "GREENOVA converts used cooking oils and date pits into affordable, high-quality renewable diesel — powering Algeria's green future.",
-        fr: "GREENOVA convertit les huiles de cuisson usagées et les noyaux de dattes en diesel renouvelable abordable et de haute qualité — pour un avenir vert en Algérie.",
-        ar: "غرينوفا تحوّل زيوت الطهي المستعملة ونوى التمر إلى ديزل متجدد عالي الجودة وبأسعار معقولة — لمستقبل أخضر في الجزائر."
+        en: "ECO RECOVER OIL converts used cooking oils and date pits into affordable, high-quality renewable diesel — powering Algeria's green future.",
+        fr: "ECO RECOVER OIL convertit les huiles de cuisson usagées et les noyaux de dattes en diesel renouvelable abordable et de haute qualité — pour un avenir vert en Algérie.",
+        ar: "يكو ريكوفر ويل تحوّل زيوت الطهي المستعملة ونوى التمر إلى ديزل متجدد عالي الجودة وبأسعار معقولة — لمستقبل أخضر في الجزائر."
     },
     "hero.btn.discover": {
         en: "Discover Our Solution",
@@ -301,9 +301,9 @@ const translations = {
 
     // ==================== ADVANTAGES ====================
     "advantages.tag": {
-        en: "Why GREENOVA",
-        fr: "Pourquoi GREENOVA",
-        ar: "لماذا غرينوفا"
+        en: "Why ECO RECOVER OIL",
+        fr: "Pourquoi ECO RECOVER OIL",
+        ar: "لماذا يكو ريكوفر ويل"
     },
     "advantages.title": {
         en: "Our Unfair Advantages",
@@ -527,9 +527,9 @@ const translations = {
         ar: "هل أنت مستعد للانضمام إلى الثورة الخضراء؟"
     },
     "cta.desc": {
-        en: "Partner with GREENOVA to build a cleaner, more sustainable future for Algeria.",
-        fr: "Associez-vous à GREENOVA pour construire un avenir plus propre et plus durable pour l'Algérie.",
-        ar: "تعاون مع غرينوفا لبناء مستقبل أنظف وأكثر استدامة للجزائر."
+        en: "Partner with ECO RECOVER OIL to build a cleaner, more sustainable future for Algeria.",
+        fr: "Associez-vous à ECO RECOVER OIL pour construire un avenir plus propre et plus durable pour l'Algérie.",
+        ar: "تعاون مع يكو ريكوفر ويل لبناء مستقبل أنظف وأكثر استدامة للجزائر."
     },
     "cta.btn.contact": {
         en: "Get In Touch",
@@ -564,9 +564,9 @@ const translations = {
         ar: "تحويل زيوت الطهي المستعملة إلى ديزل متجدد نظيف وبأسعار معقولة للجزائر."
     },
     "footer.copyright": {
-        en: "© 2026 GREENOVA — KEHILECHE BELKACEM & LASSALI BILAL. All rights reserved.",
-        fr: "© 2026 GREENOVA — KEHILECHE BELKACEM & LASSALI BILAL. Tous droits réservés.",
-        ar: "© 2026 غرينوفا — كحيلش بلقاسم ولسالي بلال. جميع الحقوق محفوظة."
+        en: "© 2026 ECO RECOVER OIL — KEHILECHE BELKACEM & LASSALI BILAL. All rights reserved.",
+        fr: "© 2026 ECO RECOVER OIL — KEHILECHE BELKACEM & LASSALI BILAL. Tous droits réservés.",
+        ar: "© 2026 يكو ريكوفر ويل — كحيلش بلقاسم ولسالي بلال. جميع الحقوق محفوظة."
     },
     "footer.theproblem": {
         en: "The Problem",
@@ -586,9 +586,9 @@ const translations = {
         ar: "من نحن"
     },
     "about.header.title": {
-        en: "About GREENOVA",
-        fr: "À propos de GREENOVA",
-        ar: "عن غرينوفا"
+        en: "About ECO RECOVER OIL",
+        fr: "À propos de ECO RECOVER OIL",
+        ar: "عن يكو ريكوفر ويل"
     },
     "about.header.desc": {
         en: "Pioneering Algeria's transition to clean, locally-produced renewable diesel from waste resources.",
@@ -606,9 +606,9 @@ const translations = {
         ar: "من النفايات إلى الطاقة"
     },
     "about.story.p1": {
-        en: "GREENOVA was born from a simple but powerful observation: Algeria produces millions of liters of used cooking oil each year, most of which is improperly disposed of, contaminating water sources and soil.",
-        fr: "GREENOVA est née d'une observation simple mais puissante : l'Algérie produit des millions de litres d'huile de cuisson usagée chaque année, dont la majorité est éliminée de manière inappropriée, contaminant les sources d'eau et le sol.",
-        ar: "ولدت غرينوفا من ملاحظة بسيطة لكنها قوية: تنتج الجزائر ملايين اللترات من زيت الطهي المستعمل كل عام، يتم التخلص من معظمها بشكل غير سليم، مما يلوث مصادر المياه والتربة."
+        en: "ECO RECOVER OIL was born from a simple but powerful observation: Algeria produces millions of liters of used cooking oil each year, most of which is improperly disposed of, contaminating water sources and soil.",
+        fr: "ECO RECOVER OIL est née d'une observation simple mais puissante : l'Algérie produit des millions de litres d'huile de cuisson usagée chaque année, dont la majorité est éliminée de manière inappropriée, contaminant les sources d'eau et le sol.",
+        ar: "ولدت يكو ريكوفر ويل من ملاحظة بسيطة لكنها قوية: تنتج الجزائر ملايين اللترات من زيت الطهي المستعمل كل عام، يتم التخلص من معظمها بشكل غير سليم، مما يلوث مصادر المياه والتربة."
     },
     "about.story.p2": {
         en: "At the same time, the country's vast date production generates enormous quantities of date pits — an underutilized resource with significant energy potential.",
@@ -665,9 +665,9 @@ const translations = {
         ar: "مؤسسونا"
     },
     "about.team.title": {
-        en: "The Team Behind GREENOVA",
-        fr: "L'équipe derrière GREENOVA",
-        ar: "الفريق وراء غرينوفا"
+        en: "The Team Behind ECO RECOVER OIL",
+        fr: "L'équipe derrière ECO RECOVER OIL",
+        ar: "الفريق وراء يكو ريكوفر ويل"
     },
     "about.team.desc": {
         en: "Two passionate engineers combining technical expertise with a vision for Algeria's sustainable future.",
@@ -761,7 +761,7 @@ const translations = {
     "svc8.desc": { en: "Comprehensive used cooking oil disposal services for restaurants and food industries. We turn your waste liability into an environmental solution — and you may receive compensation for your oils.", fr: "Services complets d'élimination des huiles de cuisson usagées pour les restaurants et les industries alimentaires. Nous transformons votre responsabilité de déchets en solution environnementale — et vous pouvez recevoir une compensation pour vos huiles.", ar: "خدمات شاملة للتخلص من زيوت الطهي المستعملة للمطاعم والصناعات الغذائية. نحوّل مسؤولية نفاياتك إلى حل بيئي — وقد تحصل على تعويض مقابل زيوتك." },
     "svc9.title": { en: "Environmental Compliance", fr: "Conformité environnementale", ar: "الامتثال البيئي" },
     "svc9.desc": { en: "Help businesses and municipalities meet environmental regulations through proper used oil disposal and the adoption of cleaner fuel alternatives. Documentation and reporting included.", fr: "Aider les entreprises et les municipalités à respecter les réglementations environnementales grâce à une élimination appropriée des huiles usagées et à l'adoption d'alternatives de carburant plus propres. Documentation et rapports inclus.", ar: "مساعدة الشركات والبلديات على الامتثال للوائح البيئية من خلال التخلص السليم من الزيوت المستعملة واعتماد بدائل وقود أنظف. تشمل التوثيق والتقارير." },
-    "services.why.tag": { en: "Why Choose GREENOVA", fr: "Pourquoi choisir GREENOVA", ar: "لماذا تختار غرينوفا" },
+    "services.why.tag": { en: "Why Choose ECO RECOVER OIL", fr: "Pourquoi choisir ECO RECOVER OIL", ar: "لماذا تختار يكو ريكوفر ويل" },
     "services.why.title": { en: "Benefits for Your Business", fr: "Avantages pour votre entreprise", ar: "الفوائد لعملك" },
     "services.why1.title": { en: "Significant Cost Savings", fr: "Économies significatives", ar: "توفير كبير في التكاليف" },
     "services.why1.desc": { en: "Our renewable diesel costs significantly less than conventional diesel, directly reducing your fuel expenses.", fr: "Notre diesel renouvelable coûte nettement moins que le diesel conventionnel, réduisant directement vos dépenses de carburant.", ar: "ديزلنا المتجدد يكلف أقل بكثير من الديزل التقليدي، مما يقلل نفقات الوقود مباشرة." },
@@ -776,7 +776,7 @@ const translations = {
     "services.why6.title": { en: "Green Brand Image", fr: "Image de marque verte", ar: "صورة علامة تجارية خضراء" },
     "services.why6.desc": { en: "Demonstrate environmental leadership to customers, stakeholders, and regulators with certified renewable fuel use.", fr: "Démontrer le leadership environnemental auprès des clients, parties prenantes et régulateurs avec l'utilisation de carburant renouvelable certifié.", ar: "إظهار الريادة البيئية للعملاء وأصحاب المصلحة والمنظمين باستخدام وقود متجدد معتمد." },
     "services.cta.title": { en: "Ready to Switch to Clean Diesel?", fr: "Prêt à passer au diesel propre ?", ar: "مستعد للتحول إلى الديزل النظيف؟" },
-    "services.cta.desc": { en: "Contact us today to discuss how GREENOVA can reduce your fuel costs and environmental footprint.", fr: "Contactez-nous aujourd'hui pour discuter de la façon dont GREENOVA peut réduire vos coûts de carburant et votre empreinte environnementale.", ar: "اتصل بنا اليوم لمناقشة كيف يمكن لغرينوفا تقليل تكاليف الوقود وبصمتك البيئية." },
+    "services.cta.desc": { en: "Contact us today to discuss how ECO RECOVER OIL can reduce your fuel costs and environmental footprint.", fr: "Contactez-nous aujourd'hui pour discuter de la façon dont ECO RECOVER OIL peut réduire vos coûts de carburant et votre empreinte environnementale.", ar: "اتصل بنا اليوم لمناقشة كيف يمكن ليكو ريكوفر ويل تقليل تكاليف الوقود وبصمتك البيئية." },
     "services.cta.quote": { en: "Request a Quote", fr: "Demander un devis", ar: "طلب عرض أسعار" },
 
     // ==================== CONTACT PAGE ====================
@@ -784,7 +784,7 @@ const translations = {
     "contact.header.title": { en: "Contact Us", fr: "Contactez-nous", ar: "اتصل بنا" },
     "contact.header.desc": { en: "Have questions or ready to partner with us? We'd love to hear from you.", fr: "Des questions ou prêt à devenir partenaire ? Nous serions ravis de vous entendre.", ar: "لديك أسئلة أو مستعد للتعاون معنا؟ يسعدنا سماعك." },
     "contact.getintouch": { en: "Get In Touch", fr: "Contactez-nous", ar: "تواصل معنا" },
-    "contact.intro": { en: "Whether you're a potential partner, investor, or client, we're here to answer your questions and discuss how GREENOVA can work for you.", fr: "Que vous soyez un partenaire potentiel, un investisseur ou un client, nous sommes là pour répondre à vos questions et discuter de la façon dont GREENOVA peut travailler pour vous.", ar: "سواء كنت شريكاً محتملاً أو مستثمراً أو عميلاً، نحن هنا للإجابة على أسئلتك ومناقشة كيف يمكن لغرينوفا أن تعمل لصالحك." },
+    "contact.intro": { en: "Whether you're a potential partner, investor, or client, we're here to answer your questions and discuss how ECO RECOVER OIL can work for you.", fr: "Que vous soyez un partenaire potentiel, un investisseur ou un client, nous sommes là pour répondre à vos questions et discuter de la façon dont ECO RECOVER OIL peut travailler pour vous.", ar: "سواء كنت شريكاً محتملاً أو مستثمراً أو عميلاً، نحن هنا للإجابة على أسئلتك ومناقشة كيف يمكن ليكو ريكوفر ويل أن تعمل لصالحك." },
     "contact.email": { en: "Email", fr: "E-mail", ar: "البريد الإلكتروني" },
     "contact.phone": { en: "Phone", fr: "Téléphone", ar: "الهاتف" },
     "contact.location": { en: "Location", fr: "Localisation", ar: "الموقع" },
@@ -830,7 +830,7 @@ const translations = {
     "partners.header.desc": { en: "Building a strong ecosystem of partnerships to accelerate Algeria's renewable energy transition.", fr: "Construire un écosystème solide de partenariats pour accélérer la transition énergétique renouvelable de l'Algérie.", ar: "بناء نظام بيئي قوي من الشراكات لتسريع انتقال الجزائر نحو الطاقة المتجددة." },
     "partners.approach.tag": { en: "Our Approach", fr: "Notre Approche", ar: "نهجنا" },
     "partners.approach.title": { en: "Collaboration for Impact", fr: "Collaboration pour l'impact", ar: "التعاون من أجل التأثير" },
-    "partners.approach.desc": { en: "GREENOVA believes in the power of partnerships. Our success depends on building strong relationships with local authorities, research institutions, industry partners, and the broader energy ecosystem. Together, we can transform waste into sustainable energy for Algeria.", fr: "GREENOVA croit au pouvoir des partenariats. Notre succès dépend de la construction de relations solides avec les autorités locales, les institutions de recherche, les partenaires industriels et l'écosystème énergétique plus large. Ensemble, nous pouvons transformer les déchets en énergie durable pour l'Algérie.", ar: "تؤمن غرينوفا بقوة الشراكات. يعتمد نجاحنا على بناء علاقات قوية مع السلطات المحلية ومؤسسات البحث والشركاء الصناعيين والنظام البيئي الطاقوي الأوسع. معاً يمكننا تحويل النفايات إلى طاقة مستدامة للجزائر." },
+    "partners.approach.desc": { en: "ECO RECOVER OIL believes in the power of partnerships. Our success depends on building strong relationships with local authorities, research institutions, industry partners, and the broader energy ecosystem. Together, we can transform waste into sustainable energy for Algeria.", fr: "ECO RECOVER OIL croit au pouvoir des partenariats. Notre succès dépend de la construction de relations solides avec les autorités locales, les institutions de recherche, les partenaires industriels et l'écosystème énergétique plus large. Ensemble, nous pouvons transformer les déchets en énergie durable pour l'Algérie.", ar: "تؤمن يكو ريكوفر ويل بقوة الشراكات. يعتمد نجاحنا على بناء علاقات قوية مع السلطات المحلية ومؤسسات البحث والشركاء الصناعيين والنظام البيئي الطاقوي الأوسع. معاً يمكننا تحويل النفايات إلى طاقة مستدامة للجزائر." },
     "partners.strategic": { en: "Strategic Partners", fr: "Partenaires stratégiques", ar: "الشركاء الاستراتيجيون" },
     "partners.channels": { en: "Business Channels", fr: "Canaux commerciaux", ar: "القنوات التجارية" },
     "partners.knowledge": { en: "Knowledge & Technical Network", fr: "Réseau de connaissances et technique", ar: "شبكة المعرفة والتقنية" },
@@ -867,7 +867,7 @@ const translations = {
     "partners.r5.desc": { en: "Beyond just fuel supply — we collaborate with key clients on sustainability initiatives, branding, and shared environmental goals.", fr: "Au-delà de la simple fourniture de carburant — nous collaborons avec nos clients clés sur les initiatives de durabilité, le branding et les objectifs environnementaux communs.", ar: "أبعد من مجرد توريد الوقود — نتعاون مع العملاء الرئيسيين في مبادرات الاستدامة والعلامة التجارية والأهداف البيئية المشتركة." },
     "partners.r6.title": { en: "Growth Together", fr: "Grandir ensemble", ar: "النمو معاً" },
     "partners.r6.desc": { en: "As our production scales, our partners benefit from improved pricing, expanded capacity, and access to new product developments.", fr: "À mesure que notre production évolue, nos partenaires bénéficient de prix améliorés, d'une capacité élargie et d'un accès à de nouveaux développements de produits.", ar: "مع توسع إنتاجنا، يستفيد شركاؤنا من أسعار محسنة وسعة موسعة والوصول إلى تطورات منتجات جديدة." },
-    "partners.cta.title": { en: "Become a GREENOVA Partner", fr: "Devenez partenaire GREENOVA", ar: "كن شريك غرينوفا" },
+    "partners.cta.title": { en: "Become a ECO RECOVER OIL Partner", fr: "Devenez partenaire ECO RECOVER OIL", ar: "كن شريك يكو ريكوفر ويل" },
     "partners.cta.desc": { en: "Whether you're a municipality, business, investor, or research institution — there's a partnership opportunity for you.", fr: "Que vous soyez une municipalité, une entreprise, un investisseur ou une institution de recherche — il y a une opportunité de partenariat pour vous.", ar: "سواء كنت بلدية أو شركة أو مستثمراً أو مؤسسة بحثية — هناك فرصة شراكة لك." },
 
     // ==================== FORM PLACEHOLDERS ====================

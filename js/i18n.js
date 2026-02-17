@@ -1,11 +1,11 @@
-/* ============================================================
-   GREENOVA — i18n Language Switcher
+﻿/* ============================================================
+   ECO RECOVER OIL — i18n Language Switcher
    ============================================================ */
 
 (function () {
     'use strict';
 
-    const STORAGE_KEY = 'greenova-lang';
+    const STORAGE_KEY = 'ECO RECOVER OIL-lang';
     const DEFAULT_LANG = 'en';
     const RTL_LANGS = ['ar'];
 
