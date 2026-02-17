@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn about GREENOVA — Our mission, vision, team, and the story behind Algeria's renewable diesel revolution.">
+    <title>About Us — GREENOVA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="icon" type="image/svg+xml" href="../img/favicon.svg">
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar scrolled" id="navbar">
+        <div class="container nav-container">
+            <a href="../index.html" class="nav-logo" style="color: var(--dark-900);">
+                <svg class="logo-icon" viewBox="0 0 64 64" width="40" height="40">
+                    <path d="M32 4C32 4 8 20 8 40c0 13.255 10.745 24 24 24s24-10.745 24-24C56 20 32 4 32 4z" fill="#2ecc71"/>
+                    <path d="M32 16v40M20 32c6 0 12-4 12-12M44 38c-6 0-12-4-12-12" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+                </svg>
+                <span>GREEN<strong>OVA</strong></span>
+            </a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="../index.html" data-i18n="nav.home">Home</a></li>
+                <li><a href="about.html" class="active" data-i18n="nav.about">About</a></li>
+                <li><a href="services.html" data-i18n="nav.services">Services</a></li>
+                <li><a href="partners.html" data-i18n="nav.partners">Partners</a></li>
+                <li><a href="contact.html" class="btn btn-nav" data-i18n="nav.contact">Contact Us</a></li>
+            </ul>
+            <button class="hamburger" id="hamburger" aria-label="Toggle menu">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <div class="breadcrumb">
+                <a href="../index.html" data-i18n="nav.home">Home</a>
+                <span>/</span>
+                <span data-i18n="about.breadcrumb">About Us</span>
+            </div>
+            <h1 data-i18n="about.header.title">About GREENOVA</h1>
+            <p data-i18n="about.header.desc">Pioneering Algeria's transition to clean, locally-produced renewable diesel from waste resources.</p>
+        </div>
+    </section>
+
+    <!-- About Intro -->
+    <section class="section">
+        <div class="container">
+            <div class="about-intro">
+                <div class="about-text">
+                    <span class="section-tag" data-i18n="about.story.tag">Our Story</span>
+                    <h2 data-i18n="about.story.title">From Waste to Energy</h2>
+                    <p data-i18n="about.story.p1">GREENOVA was born from a simple but powerful observation: Algeria produces millions of liters of used cooking oil each year, most of which is improperly disposed of, contaminating water sources and soil.</p>
+                    <p data-i18n="about.story.p2">At the same time, the country's vast date production generates enormous quantities of date pits — an underutilized resource with significant energy potential.</p>
+                    <p data-i18n="about.story.p3">We saw an opportunity to solve two problems at once: eliminate environmental pollution while producing affordable, clean diesel fuel from 100% local resources.</p>
+                    <p data-i18n="about.story.p4">Our innovative approach combines optimized thermochemical conversion with the unique use of date pits as an economic lever, creating a solution that is simple, modular, and ready for industrialization.</p>
+                </div>
+                <div class="about-visual" style="display:flex; align-items:center; justify-content:center;">
+                    <svg viewBox="0 0 400 400" width="100%" style="max-width:380px;">
+                        <!-- Circular background -->
+                        <circle cx="200" cy="200" r="180" fill="#f0fdf4" stroke="#dcfce7" stroke-width="2"/>
+                        <!-- Recycling arrows -->
+                        <g transform="translate(200,200)">
+                            <path d="M-60,-80 L0,-100 L0,-60 Z" fill="#2ecc71" opacity="0.9">
+                                <animateTransform attributeName="transform" type="rotate" values="0;360" dur="12s" repeatCount="indefinite"/>
+                            </path>
+                            <path d="M60,80 L0,100 L0,60 Z" fill="#27ae60" opacity="0.9">
+                                <animateTransform attributeName="transform" type="rotate" values="0;360" dur="12s" repeatCount="indefinite"/>
+                            </path>
+                            <path d="M-80,40 L-100,-20 L-60,-20 Z" fill="#1e8449" opacity="0.9">
+                                <animateTransform attributeName="transform" type="rotate" values="0;360" dur="12s" repeatCount="indefinite"/>
+                            </path>
+                            <circle cx="0" cy="0" r="60" fill="none" stroke="#2ecc71" stroke-width="3" stroke-dasharray="8 6">
+                                <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="12s" repeatCount="indefinite"/>
+                            </circle>
+                        </g>
+                        <!-- Center icon -->
+                        <g transform="translate(170,170)">
+                            <path d="M30 4C30 4 8 18 8 35c0 11.6 9.4 21 21 21s21-9.4 21-21C50 18 30 4 30 4z" fill="#2ecc71"/>
+                            <path d="M30 14v35M20 28c5 0 10-3.5 10-10.5M40 33c-5 0-10-3.5-10-10.5" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/>
+                        </g>
+                        <!-- Labels -->
+                        <text x="200" y="50" text-anchor="middle" font-family="Poppins,sans-serif" font-size="14" font-weight="600" fill="#166534">Used Cooking Oils</text>
+                        <text x="340" y="350" text-anchor="middle" font-family="Poppins,sans-serif" font-size="14" font-weight="600" fill="#166534">Renewable Diesel</text>
+                        <text x="60" y="350" text-anchor="middle" font-family="Poppins,sans-serif" font-size="14" font-weight="600" fill="#166534">Date Pits</text>
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Mission & Vision -->
+    <section class="section section-green">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag" data-i18n="about.mv.tag">What Drives Us</span>
+                <h2 class="section-title" data-i18n="about.mv.title">Our Mission & Vision</h2>
+            </div>
+            <div class="about-values">
+                <div class="value-card">
+                    <div class="value-icon">🎯</div>
+                    <h3 data-i18n="about.mission.title">Our Mission</h3>
+                    <p data-i18n="about.mission.desc">To produce affordable, high-quality renewable diesel from waste resources, reducing pollution and energy costs while strengthening Algeria's energy independence.</p>
+                </div>
+                <div class="value-card">
+                    <div class="value-icon">🔭</div>
+                    <h3 data-i18n="about.vision.title">Our Vision</h3>
+                    <p data-i18n="about.vision.desc">To become Algeria's leading producer of renewable diesel, establishing a circular economy model that transforms waste into value for communities nationwide.</p>
+                </div>
+                <div class="value-card">
+                    <div class="value-icon">💚</div>
+                    <h3 data-i18n="about.values.title">Our Values</h3>
+                    <p data-i18n="about.values.desc">Sustainability, innovation, local empowerment, and environmental responsibility guide every decision we make — from lab to production.</p>
+                </div>
+                <div class="value-card">
+                    <div class="value-icon">🌍</div>
+                    <h3 data-i18n="about.impact.title">Environmental Impact</h3>
+                    <p data-i18n="about.impact.desc">Every liter of renewable diesel we produce prevents used oil from polluting waterways and reduces greenhouse gas emissions compared to fossil fuels.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team -->
+    <section class="section">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag" data-i18n="about.team.tag">Our Founders</span>
+                <h2 class="section-title" data-i18n="about.team.title">The Team Behind GREENOVA</h2>
+                <p class="section-desc" data-i18n="about.team.desc">Two passionate engineers combining technical expertise with a vision for Algeria's sustainable future.</p>
+            </div>
+            <div class="team-grid">
+                <div class="team-card">
+                    <div class="team-avatar">KB</div>
+                    <h3>KEHILECHE Belkacem</h3>
+                    <div class="team-role" data-i18n="about.kb.role">Co-Founder & Technical Lead</div>
+                    <p data-i18n="about.kb.desc">Energy and process engineering expertise with a deep understanding of thermochemical conversion technologies and Algeria's energy landscape.</p>
+                </div>
+                <div class="team-card">
+                    <div class="team-avatar">LB</div>
+                    <h3>LASSALI Bilal</h3>
+                    <div class="team-role" data-i18n="about.lb.role">Co-Founder & Operations Lead</div>
+                    <p data-i18n="about.lb.desc">Strategic vision for sustainable business development, with expertise in project management, logistics, and industrial process optimization.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Key Milestones -->
+    <section class="section section-dark">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag tag-light" data-i18n="about.milestones.tag">Our Journey</span>
+                <h2 class="section-title light" data-i18n="about.milestones.title">Key Milestones</h2>
+            </div>
+            <div class="process-timeline">
+                <div class="timeline-item visible">
+                    <div class="timeline-number">📋</div>
+                    <div class="timeline-content" style="background: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.1);">
+                        <h3 style="color: var(--white);" data-i18n="about.m1.title">Research & Concept</h3>
+                        <p style="color: var(--dark-400);" data-i18n="about.m1.desc">In-depth research into thermochemical conversion processes, local resource assessment, and feasibility analysis.</p>
+                    </div>
+                </div>
+                <div class="timeline-item visible">
+                    <div class="timeline-number">🧪</div>
+                    <div class="timeline-content" style="background: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.1);">
+                        <h3 style="color: var(--white);" data-i18n="about.m2.title">Process Optimization</h3>
+                        <p style="color: var(--dark-400);" data-i18n="about.m2.desc">Optimizing the conversion process, incorporating date pits, and validating fuel quality and engine compatibility.</p>
+                    </div>
+                </div>
+                <div class="timeline-item visible">
+                    <div class="timeline-number">🏗️</div>
+                    <div class="timeline-content" style="background: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.1);">
+                        <h3 style="color: var(--white);" data-i18n="about.m3.title">Pilot Unit Development</h3>
+                        <p style="color: var(--dark-400);" data-i18n="about.m3.desc">Building and operating a controlled pilot production unit to prove the concept at operational scale.</p>
+                    </div>
+                </div>
+                <div class="timeline-item visible">
+                    <div class="timeline-number">🚀</div>
+                    <div class="timeline-content" style="background: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.1);">
+                        <h3 style="color: var(--white);" data-i18n="about.m4.title">Industrialization (Next)</h3>
+                        <p style="color: var(--dark-400);" data-i18n="about.m4.desc">Scaling to full industrial production, establishing B2B partnerships, and expanding across Algeria.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta-section">
+        <div class="container">
+            <div class="cta-content">
+                <h2 data-i18n="about.cta.title">Join Our Mission</h2>
+                <p data-i18n="about.cta.desc">Be part of Algeria's green energy transformation — as a partner, investor, or client.</p>
+                <div class="cta-actions">
+                    <a href="contact.html" class="btn btn-primary btn-lg" data-i18n="cta.btn.contact">Get In Touch</a>
+                    <a href="partners.html" class="btn btn-outline-white btn-lg" data-i18n="about.cta.partnerships">Partnership Opportunities</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <a href="../index.html" class="footer-logo">
+                        <svg class="logo-icon" viewBox="0 0 64 64" width="36" height="36">
+                            <path d="M32 4C32 4 8 20 8 40c0 13.255 10.745 24 24 24s24-10.745 24-24C56 20 32 4 32 4z" fill="#2ecc71"/>
+                            <path d="M32 16v40M20 32c6 0 12-4 12-12M44 38c-6 0-12-4-12-12" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+                        </svg>
+                        <span>GREEN<strong>OVA</strong></span>
+                    </a>
+                    <p data-i18n="footer.desc">Converting used cooking oils into clean, affordable renewable diesel for Algeria.</p>
+                </div>
+                <div class="footer-links">
+                    <h4 data-i18n="footer.nav">Navigation</h4>
+                    <ul>
+                        <li><a href="../index.html" data-i18n="nav.home">Home</a></li>
+                        <li><a href="about.html" data-i18n="nav.about">About Us</a></li>
+                        <li><a href="services.html" data-i18n="nav.services">Services</a></li>
+                        <li><a href="partners.html" data-i18n="nav.partners">Partners</a></li>
+                        <li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-links">
+                    <h4 data-i18n="footer.solution">Solution</h4>
+                    <ul>
+                        <li><a href="../index.html#problem" data-i18n="footer.theproblem">The Problem</a></li>
+                        <li><a href="../index.html#solution" data-i18n="footer.oursolution">Our Solution</a></li>
+                        <li><a href="../index.html#process" data-i18n="nav.process">Process</a></li>
+                        <li><a href="../index.html#advantages" data-i18n="nav.advantages">Advantages</a></li>
+                        <li><a href="../index.html#segments" data-i18n="nav.markets">Markets</a></li>
+                    </ul>
+                </div>
+                <div class="footer-contact">
+                    <h4 data-i18n="footer.contact">Contact</h4>
+                    <ul>
+                        <li>📧 contact@greenova-dz.com</li>
+                        <li>📞 +213 XX XX XX XX</li>
+                        <li>📍 Algeria</li>
+                    </ul>
+                    <div class="footer-social">
+                        <a href="#" aria-label="LinkedIn">
+                            <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+                        </a>
+                        <a href="#" aria-label="Twitter">
+                            <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+                        </a>
+                        <a href="#" aria-label="Facebook">
+                            <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p data-i18n="footer.copyright">&copy; 2026 GREENOVA — KEHILECHE BELKACEM & LASSALI BILAL. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/translations.js"></script>
+    <script src="../js/i18n.js"></script>
+    <script src="../js/main.js"></script>
+</body>
+</html>
