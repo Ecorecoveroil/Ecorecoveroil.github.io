@@ -68,9 +68,9 @@ const translations = {
         ar: 'تحويل <span class="highlight">الزيوت المستعملة</span><br>إلى <span class="highlight">ديزل نظيف</span>'
     },
     "hero.subtitle": {
-        en: "ECO RECOVER OIL converts used cooking oils and date pits into affordable, high-quality renewable diesel — powering Algeria's green future.",
-        fr: "ECO RECOVER OIL convertit les huiles de cuisson usagées et les noyaux de dattes en diesel renouvelable abordable et de haute qualité — pour un avenir vert en Algérie.",
-        ar: "يكو ريكوفر ويل تحوّل زيوت الطهي المستعملة ونوى التمر إلى ديزل متجدد عالي الجودة وبأسعار معقولة — لمستقبل أخضر في الجزائر."
+        en: "ECO RECOVER OIL Converting used motor oils into premium oils high-quality — powering Algeria's green future.",
+        fr: "ECO RECOVER OIL Conversion des huiles moteur usagées en huiles premium de haute qualité — pour un avenir vert en Algérie.",
+        ar: "إيكو ريكوفر أويل تحويل زيوت المحركات المستعملة إلى زيوت ممتازة عالية الجودة — لمستقبل أخضر في الجزائر."
     },
     "hero.btn.discover": {
         en: "Discover Our Solution",
@@ -120,9 +120,9 @@ const translations = {
         ar: "التلوث البيئي"
     },
     "problem.pollution.desc": {
-        en: "Uncontrolled disposal of used cooking oils causes severe water and soil contamination across communities.",
-        fr: "L'élimination incontrôlée des huiles de cuisson usagées provoque une contamination grave de l'eau et du sol.",
-        ar: "التخلص غير المنضبط من زيوت الطهي المستعملة يسبب تلوثاً خطيراً للمياه والتربة."
+        en: "Uncontrolled disposal of used motor oils causes severe water and soil contamination across communities.",
+        fr: "L'élimination incontrôlée des huiles moteur usagées provoque une contamination grave de l'eau et du sol.",
+        ar: "التخلص غير المنضبط من زيوت المحركات المستعملة يسبب تلوثاً خطيراً للمياه والتربة."
     },
     "problem.cost.title": {
         en: "High Fuel Costs",
@@ -145,9 +145,9 @@ const translations = {
         ar: "الحلول الطاقوية الحالية مكلفة ومعتمدة على الاستيراد وغير متكيفة مع السياق المحلي الجزائري."
     },
     "problem.datepits.title": {
-        en: "Wasted Date Pits",
-        fr: "Noyaux de dattes gaspillés",
-        ar: "هدر نوى التمر"
+        en: "Wasted advanced additives",
+        fr: "additifs avancés gaspillés",
+        ar: "هدر ضافات متقدمة"
     },
     "problem.datepits.desc": {
         en: "Algeria's massive date production generates underutilized pits — a valuable resource going to waste.",
@@ -187,8 +187,8 @@ const translations = {
         ar: "التحويل الكيميائي الحراري"
     },
     "solution.step4": {
-        en: "Renewable Diesel",
-        fr: "Diesel renouvelable",
+        en: "premium oil",
+        fr: "huile premium",
         ar: "الديزل المتجدد"
     },
     "solution.feat1.title": {
@@ -203,13 +203,13 @@ const translations = {
     },
     "solution.feat2.title": {
         en: "Date Pit Integration",
-        fr: "Intégration des noyaux de dattes",
-        ar: "دمج نوى التمر"
+        fr: "Intégration des additifs avancés",
+        ar: "دمج ضافات متقدمة"
     },
     "solution.feat2.desc": {
-        en: "Unique use of date pits for cost reduction and local value creation.",
-        fr: "Utilisation unique des noyaux de dattes pour la réduction des coûts et la création de valeur locale.",
-        ar: "استخدام فريد لنوى التمر لتقليل التكاليف وخلق قيمة محلية."
+        en: "Unique use of advanced additives for cost reduction and local value creation.",
+        fr: "Utilisation unique des additifs avancés pour la réduction des coûts et la création de valeur locale.",
+        ar: "استخدام فريد لضافات متقدمة لتقليل التكاليف وخلق قيمة محلية."
     },
     "solution.feat3.title": {
         en: "Modular & Scalable",
@@ -254,9 +254,9 @@ const translations = {
         ar: "الجمع والتوريد"
     },
     "process.step1.desc": {
-        en: "We partner with restaurants, households, and food industries to collect used cooking oils, and source date pits from local producers.",
-        fr: "Nous collaborons avec les restaurants, les ménages et les industries alimentaires pour collecter les huiles usagées, et nous approvisionnons en noyaux de dattes auprès des producteurs locaux.",
-        ar: "نتعاون مع المطاعم والأسر والصناعات الغذائية لجمع زيوت الطهي المستعملة، ونحصل على نوى التمر من المنتجين المحليين."
+        en: "We partner with restaurants, households, and food industries to collect used motor oils, and source advanced additives from local producers.",
+        fr: "Nous collaborons avec les restaurants, les ménages et les industries alimentaires pour collecter les huiles usagées, et nous approvisionnons en additifs avancés auprès des producteurs locaux.",
+        ar: "نتعاون مع المطاعم والأسر والصناعات الغذائية لجمع زيوت المحركات المستعملة، ونحصل على ضافات متقدمة من المنتجين المحليين."
     },
     "process.step2.title": {
         en: "Pre-Treatment & Filtration",
@@ -274,9 +274,9 @@ const translations = {
         ar: "التحويل الكيميائي الحراري"
     },
     "process.step3.desc": {
-        en: "Optimized thermochemical processes transform pre-treated oils into stable renewable diesel, with date pits serving as an economic catalyst.",
-        fr: "Des processus thermochimiques optimisés transforment les huiles pré-traitées en diesel renouvelable stable, les noyaux de dattes servant de catalyseur économique.",
-        ar: "عمليات كيميائية حرارية محسّنة تحوّل الزيوت المعالجة إلى ديزل متجدد مستقر، مع استخدام نوى التمر كمحفز اقتصادي."
+        en: "Optimized thermochemical processes transform pre-treated oils into stable premium oil, with advanced additives serving as an economic catalyst.",
+        fr: "Des processus thermochimiques optimisés transforment les huiles pré-traitées en huile premium stable, les additifs avancés servant de catalyseur économique.",
+        ar: "عمليات كيميائية حرارية محسّنة تحوّل الزيوت المعالجة إلى زيت ممتاز مستقر، مع استخدام ضافات متقدمة كمحفز اقتصادي."
     },
     "process.step4.title": {
         en: "Quality Testing",
@@ -294,8 +294,8 @@ const translations = {
         ar: "التوزيع"
     },
     "process.step5.desc": {
-        en: "Finished renewable diesel is delivered directly to B2B clients — municipalities, transport companies, farms, and industrial users.",
-        fr: "Le diesel renouvelable fini est livré directement aux clients B2B — municipalités, sociétés de transport, fermes et utilisateurs industriels.",
+        en: "Finished premium oil is delivered directly to B2B clients — municipalities, transport companies, farms, and industrial users.",
+        fr: "Le huile premium fini est livré directement aux clients B2B — municipalités, sociétés de transport, fermes et utilisateurs industriels.",
         ar: "يتم تسليم الديزل المتجدد الجاهز مباشرة لعملاء الشركات — البلديات وشركات النقل والمزارع والمستخدمين الصناعيين."
     },
 
@@ -317,13 +317,13 @@ const translations = {
     },
     "adv1.title": {
         en: "Date Pit Innovation",
-        fr: "Innovation noyaux de dattes",
-        ar: "ابتكار نوى التمر"
+        fr: "Innovation additifs avancés",
+        ar: "ابتكار ضافات متقدمة"
     },
     "adv1.desc": {
-        en: "Unique use of date pits as an economic lever — an approach no one else is using at this scale.",
-        fr: "Utilisation unique des noyaux de dattes comme levier économique — une approche que personne d'autre n'utilise à cette échelle.",
-        ar: "استخدام فريد لنوى التمر كرافعة اقتصادية — نهج لا يستخدمه أحد آخر بهذا الحجم."
+        en: "Unique use of advanced additives as an economic lever — an approach no one else is using at this scale.",
+        fr: "Utilisation unique des additifs avancés comme levier économique — une approche que personne d'autre n'utilise à cette échelle.",
+        ar: "استخدام فريد لضافات متقدمة كرافعة اقتصادية — نهج لا يستخدمه أحد آخر بهذا الحجم."
     },
     "adv2.title": {
         en: "Local Adaptation",
@@ -341,9 +341,9 @@ const translations = {
         ar: "تكاليف منخفضة جداً"
     },
     "adv3.desc": {
-        en: "Raw material costs near zero — used oils and date pits are waste products, giving us an unmatched cost structure.",
-        fr: "Coûts des matières premières proches de zéro — les huiles usagées et les noyaux de dattes sont des déchets, nous donnant une structure de coûts inégalée.",
-        ar: "تكاليف المواد الخام قريبة من الصفر — الزيوت المستعملة ونوى التمر هي نفايات، مما يمنحنا هيكل تكاليف لا مثيل له."
+        en: "Raw material costs near zero — used oils and advanced additives are waste products, giving us an unmatched cost structure.",
+        fr: "Coûts des matières premières proches de zéro — les huiles usagées et les additifs avancés sont des déchets, nous donnant une structure de coûts inégalée.",
+        ar: "تكاليف المواد الخام قريبة من الصفر — الزيوت المستعملة وضافات متقدمة هي نفايات، مما يمنحنا هيكل تكاليف لا مثيل له."
     },
     "adv4.title": {
         en: "Simpler Technology",
@@ -388,9 +388,9 @@ const translations = {
         ar: "من نخدم"
     },
     "segments.desc": {
-        en: "Serving Algeria's key industries with clean, affordable renewable diesel.",
-        fr: "Servir les industries clés de l'Algérie avec un diesel renouvelable propre et abordable.",
-        ar: "خدمة الصناعات الرئيسية في الجزائر بديزل متجدد نظيف وبأسعار معقولة."
+        en: "Serving Algeria's key industries with clean, affordable premium oil.",
+        fr: "Servir les industries clés de l'Algérie avec un huile premium propre et abordable.",
+        ar: "خدمة الصناعات الرئيسية في الجزائر بزيت ممتاز نظيف وبأسعار معقولة."
     },
     "segments.b2b": {
         en: "B2B — Priority",
@@ -513,7 +513,7 @@ const translations = {
         ar: "ما يدعمنا"
     },
     "res1": { en: "Technical expertise (energy & process engineering)", fr: "Expertise technique (ingénierie énergétique et procédés)", ar: "خبرة تقنية (هندسة الطاقة والعمليات)" },
-    "res2": { en: "Local raw materials (oils + date pits)", fr: "Matières premières locales (huiles + noyaux de dattes)", ar: "مواد خام محلية (زيوت + نوى التمر)" },
+    "res2": { en: "Local raw materials (oils + advanced additives)", fr: "Matières premières locales (huiles + additifs avancés)", ar: "مواد خام محلية (زيوت + ضافات متقدمة)" },
     "res3": { en: "Pilot production unit", fr: "Unité de production pilote", ar: "وحدة إنتاج تجريبية" },
     "res4": { en: "University support & research", fr: "Soutien universitaire et recherche", ar: "دعم جامعي وبحثي" },
     "res5": { en: "Institutional partners", fr: "Partenaires institutionnels", ar: "شركاء مؤسسيون" },
@@ -559,9 +559,9 @@ const translations = {
         ar: "الاتصال"
     },
     "footer.desc": {
-        en: "Converting used cooking oils into clean, affordable renewable diesel for Algeria.",
-        fr: "Conversion des huiles de cuisson usagées en diesel renouvelable propre et abordable pour l'Algérie.",
-        ar: "تحويل زيوت الطهي المستعملة إلى ديزل متجدد نظيف وبأسعار معقولة للجزائر."
+        en: "Converting used motor oils into clean, affordable premium oil for Algeria.",
+        fr: "Conversion des huiles moteur usagées en huile premium propre et abordable pour l'Algérie.",
+        ar: "تحويل زيوت المحركات المستعملة إلى زيت ممتاز نظيف وبأسعار معقولة للجزائر."
     },
     "footer.copyright": {
         en: "© 2026 ECO RECOVER OIL — KEHILECHE BELKACEM & LASSALI BILAL. All rights reserved.",
@@ -591,9 +591,9 @@ const translations = {
         ar: "عن يكو ريكوفر ويل"
     },
     "about.header.desc": {
-        en: "Pioneering Algeria's transition to clean, locally-produced renewable diesel from waste resources.",
-        fr: "Pionniers de la transition de l'Algérie vers un diesel renouvelable propre, produit localement à partir de ressources de déchets.",
-        ar: "ريادة انتقال الجزائر نحو ديزل متجدد نظيف ومنتج محلياً من موارد النفايات."
+        en: "Pioneering Algeria's transition to clean, locally-produced premium oil from waste resources.",
+        fr: "Pionniers de la transition de l'Algérie vers un huile premium propre, produit localement à partir de ressources de déchets.",
+        ar: "ريادة انتقال الجزائر نحو زيت ممتاز نظيف ومنتج محلياً من موارد النفايات."
     },
     "about.story.tag": {
         en: "Our Story",
@@ -606,14 +606,14 @@ const translations = {
         ar: "من النفايات إلى الطاقة"
     },
     "about.story.p1": {
-        en: "ECO RECOVER OIL was born from a simple but powerful observation: Algeria produces millions of liters of used cooking oil each year, most of which is improperly disposed of, contaminating water sources and soil.",
-        fr: "ECO RECOVER OIL est née d'une observation simple mais puissante : l'Algérie produit des millions de litres d'huile de cuisson usagée chaque année, dont la majorité est éliminée de manière inappropriée, contaminant les sources d'eau et le sol.",
-        ar: "ولدت يكو ريكوفر ويل من ملاحظة بسيطة لكنها قوية: تنتج الجزائر ملايين اللترات من زيت الطهي المستعمل كل عام، يتم التخلص من معظمها بشكل غير سليم، مما يلوث مصادر المياه والتربة."
+        en: "ECO RECOVER OIL was born from a simple but powerful observation: Algeria produces millions of liters of used motor oil each year, most of which is improperly disposed of, contaminating water sources and soil.",
+        fr: "ECO RECOVER OIL est née d'une observation simple mais puissante : l'Algérie produit des millions de litres d'huile moteur usagée chaque année, dont la majorité est éliminée de manière inappropriée, contaminant les sources d'eau et le sol.",
+        ar: "ولدت يكو ريكوفر ويل من ملاحظة بسيطة لكنها قوية: تنتج الجزائر ملايين اللترات من زيت المحركات المستعمل كل عام، يتم التخلص من معظمها بشكل غير سليم، مما يلوث مصادر المياه والتربة."
     },
     "about.story.p2": {
-        en: "At the same time, the country's vast date production generates enormous quantities of date pits — an underutilized resource with significant energy potential.",
-        fr: "En même temps, la vaste production de dattes du pays génère d'énormes quantités de noyaux de dattes — une ressource sous-utilisée avec un potentiel énergétique significatif.",
-        ar: "في الوقت نفسه، يولّد إنتاج التمور الضخم في البلاد كميات هائلة من نوى التمر — مورد غير مستغل ذو إمكانات طاقوية كبيرة."
+        en: "At the same time, the country's vast date production generates enormous quantities of advanced additives — an underutilized resource with significant energy potential.",
+        fr: "En même temps, la vaste production de dattes du pays génère d'énormes quantités de additifs avancés — une ressource sous-utilisée avec un potentiel énergétique significatif.",
+        ar: "في الوقت نفسه، يولّد إنتاج التمور الضخم في البلاد كميات هائلة من ضافات متقدمة — مورد غير مستغل ذو إمكانات طاقوية كبيرة."
     },
     "about.story.p3": {
         en: "We saw an opportunity to solve two problems at once: eliminate environmental pollution while producing affordable, clean diesel fuel from 100% local resources.",
@@ -621,9 +621,9 @@ const translations = {
         ar: "رأينا فرصة لحل مشكلتين في آن واحد: القضاء على التلوث البيئي مع إنتاج ديزل نظيف وبأسعار معقولة من موارد محلية 100%."
     },
     "about.story.p4": {
-        en: "Our innovative approach combines optimized thermochemical conversion with the unique use of date pits as an economic lever, creating a solution that is simple, modular, and ready for industrialization.",
-        fr: "Notre approche innovante combine une conversion thermochimique optimisée avec l'utilisation unique des noyaux de dattes comme levier économique, créant une solution simple, modulaire et prête pour l'industrialisation.",
-        ar: "يجمع نهجنا المبتكر بين التحويل الكيميائي الحراري المحسّن والاستخدام الفريد لنوى التمر كرافعة اقتصادية، مما يخلق حلاً بسيطاً ومعيارياً وجاهزاً للتصنيع."
+        en: "Our innovative approach combines optimized thermochemical conversion with the unique use of advanced additives as an economic lever, creating a solution that is simple, modular, and ready for industrialization.",
+        fr: "Notre approche innovante combine une conversion thermochimique optimisée avec l'utilisation unique des additifs avancés comme levier économique, créant une solution simple, modulaire et prête pour l'industrialisation.",
+        ar: "يجمع نهجنا المبتكر بين التحويل الكيميائي الحراري المحسّن والاستخدام الفريد لضافات متقدمة كرافعة اقتصادية، مما يخلق حلاً بسيطاً ومعيارياً وجاهزاً للتصنيع."
     },
     "about.mv.tag": {
         en: "What Drives Us",
@@ -637,14 +637,14 @@ const translations = {
     },
     "about.mission.title": { en: "Our Mission", fr: "Notre Mission", ar: "مهمتنا" },
     "about.mission.desc": {
-        en: "To produce affordable, high-quality renewable diesel from waste resources, reducing pollution and energy costs while strengthening Algeria's energy independence.",
-        fr: "Produire un diesel renouvelable abordable et de haute qualité à partir de ressources de déchets, réduisant la pollution et les coûts énergétiques tout en renforçant l'indépendance énergétique de l'Algérie.",
-        ar: "إنتاج ديزل متجدد عالي الجودة وبأسعار معقولة من موارد النفايات، مع تقليل التلوث وتكاليف الطاقة وتعزيز استقلالية الجزائر الطاقوية."
+        en: "To produce affordable, high-quality premium oil from waste resources, reducing pollution and energy costs while strengthening Algeria's energy independence.",
+        fr: "Produire un huile premium abordable et de haute qualité à partir de ressources de déchets, réduisant la pollution et les coûts énergétiques tout en renforçant l'indépendance énergétique de l'Algérie.",
+        ar: "إنتاج زيت ممتاز عالي الجودة وبأسعار معقولة من موارد النفايات، مع تقليل التلوث وتكاليف الطاقة وتعزيز استقلالية الجزائر الطاقوية."
     },
     "about.vision.title": { en: "Our Vision", fr: "Notre Vision", ar: "رؤيتنا" },
     "about.vision.desc": {
-        en: "To become Algeria's leading producer of renewable diesel, establishing a circular economy model that transforms waste into value for communities nationwide.",
-        fr: "Devenir le premier producteur algérien de diesel renouvelable, en établissant un modèle d'économie circulaire qui transforme les déchets en valeur pour les communautés à travers le pays.",
+        en: "To become Algeria's leading producer of premium oil, establishing a circular economy model that transforms waste into value for communities nationwide.",
+        fr: "Devenir le premier producteur algérien de huile premium, en établissant un modèle d'économie circulaire qui transforme les déchets en valeur pour les communautés à travers le pays.",
         ar: "أن نصبح المنتج الرائد في الجزائر للديزل المتجدد، وإنشاء نموذج اقتصاد دائري يحوّل النفايات إلى قيمة للمجتمعات في جميع أنحاء البلاد."
     },
     "about.values.title": { en: "Our Values", fr: "Nos Valeurs", ar: "قيمنا" },
@@ -655,8 +655,8 @@ const translations = {
     },
     "about.impact.title": { en: "Environmental Impact", fr: "Impact environnemental", ar: "الأثر البيئي" },
     "about.impact.desc": {
-        en: "Every liter of renewable diesel we produce prevents used oil from polluting waterways and reduces greenhouse gas emissions compared to fossil fuels.",
-        fr: "Chaque litre de diesel renouvelable que nous produisons empêche les huiles usagées de polluer les cours d'eau et réduit les émissions de gaz à effet de serre par rapport aux combustibles fossiles.",
+        en: "Every liter of premium oil we produce prevents used oil from polluting waterways and reduces greenhouse gas emissions compared to fossil fuels.",
+        fr: "Chaque litre de huile premium que nous produisons empêche les huiles usagées de polluer les cours d'eau et réduit les émissions de gaz à effet de serre par rapport aux combustibles fossiles.",
         ar: "كل لتر من الديزل المتجدد الذي ننتجه يمنع الزيوت المستعملة من تلويث المجاري المائية ويقلل انبعاثات الغازات الدفيئة مقارنة بالوقود الأحفوري."
     },
     "about.team.tag": {
@@ -704,9 +704,9 @@ const translations = {
     },
     "about.m2.title": { en: "Process Optimization", fr: "Optimisation du processus", ar: "تحسين العملية" },
     "about.m2.desc": {
-        en: "Optimizing the conversion process, incorporating date pits, and validating fuel quality and engine compatibility.",
-        fr: "Optimisation du processus de conversion, intégration des noyaux de dattes et validation de la qualité du carburant et de la compatibilité moteur.",
-        ar: "تحسين عملية التحويل، ودمج نوى التمر، والتحقق من جودة الوقود وتوافق المحرك."
+        en: "Optimizing the conversion process, incorporating advanced additives, and validating fuel quality and engine compatibility.",
+        fr: "Optimisation du processus de conversion, intégration des additifs avancés et validation de la qualité du carburant et de la compatibilité moteur.",
+        ar: "تحسين عملية التحويل، ودمج ضافات متقدمة، والتحقق من جودة الوقود وتوافق المحرك."
     },
     "about.m3.title": { en: "Pilot Unit Development", fr: "Développement de l'unité pilote", ar: "تطوير الوحدة التجريبية" },
     "about.m3.desc": {
@@ -732,43 +732,43 @@ const translations = {
     "services.breadcrumb": { en: "Services", fr: "Services", ar: "الخدمات" },
     "services.header.title": { en: "Our Services", fr: "Nos Services", ar: "خدماتنا" },
     "services.header.desc": {
-        en: "End-to-end solutions from waste oil collection to high-quality renewable diesel delivery.",
-        fr: "Des solutions de bout en bout, de la collecte des huiles usagées à la livraison de diesel renouvelable de haute qualité.",
-        ar: "حلول شاملة من جمع الزيوت المستعملة إلى توصيل ديزل متجدد عالي الجودة."
+        en: "End-to-end solutions from waste oil collection to high-quality premium oil delivery.",
+        fr: "Des solutions de bout en bout, de la collecte des huiles usagées à la livraison de huile premium de haute qualité.",
+        ar: "حلول شاملة من جمع الزيوت المستعملة إلى توصيل زيت ممتاز عالي الجودة."
     },
     "services.tag": { en: "What We Offer", fr: "Ce que nous offrons", ar: "ما نقدمه" },
     "services.title": { en: "Comprehensive Renewable Fuel Solutions", fr: "Solutions complètes de carburant renouvelable", ar: "حلول شاملة للوقود المتجدد" },
     "services.desc": {
-        en: "From collection to delivery, we handle every step of the renewable diesel value chain.",
-        fr: "De la collecte à la livraison, nous gérons chaque étape de la chaîne de valeur du diesel renouvelable.",
+        en: "From collection to delivery, we handle every step of the premium oil value chain.",
+        fr: "De la collecte à la livraison, nous gérons chaque étape de la chaîne de valeur du huile premium.",
         ar: "من الجمع إلى التوصيل، نتولى كل خطوة في سلسلة قيمة الديزل المتجدد."
     },
     "svc1.title": { en: "Used Oil Collection", fr: "Collecte d'huiles usagées", ar: "جمع الزيوت المستعملة" },
-    "svc1.desc": { en: "We operate a structured network for collecting used cooking oils from restaurants, food industries, and households. Our logistics team ensures efficient, reliable pickup schedules tailored to each partner's needs.", fr: "Nous exploitons un réseau structuré pour la collecte des huiles de cuisson usagées auprès des restaurants, industries alimentaires et ménages. Notre équipe logistique assure des calendriers de collecte efficaces et fiables adaptés aux besoins de chaque partenaire.", ar: "نُشغّل شبكة منظمة لجمع زيوت الطهي المستعملة من المطاعم والصناعات الغذائية والأسر. يضمن فريقنا اللوجستي جداول جمع فعالة وموثوقة مصممة حسب احتياجات كل شريك." },
+    "svc1.desc": { en: "We operate a structured network for collecting used motor oils from restaurants, food industries, and households. Our logistics team ensures efficient, reliable pickup schedules tailored to each partner's needs.", fr: "Nous exploitons un réseau structuré pour la collecte des huiles moteur usagées auprès des restaurants, industries alimentaires et ménages. Notre équipe logistique assure des calendriers de collecte efficaces et fiables adaptés aux besoins de chaque partenaire.", ar: "نُشغّل شبكة منظمة لجمع زيوت المحركات المستعملة من المطاعم والصناعات الغذائية والأسر. يضمن فريقنا اللوجستي جداول جمع فعالة وموثوقة مصممة حسب احتياجات كل شريك." },
     "svc2.title": { en: "Oil Pre-Treatment", fr: "Pré-traitement des huiles", ar: "المعالجة الأولية للزيوت" },
     "svc2.desc": { en: "Collected oils undergo rigorous filtration, dehydration, and purification processes. We remove all impurities — water, food particles, and contaminants — to prepare them for conversion into high-quality fuel.", fr: "Les huiles collectées subissent des processus rigoureux de filtration, déshydratation et purification. Nous éliminons toutes les impuretés — eau, particules alimentaires et contaminants — pour les préparer à la conversion en carburant de haute qualité.", ar: "تخضع الزيوت المجمعة لعمليات ترشيح وتجفيف وتنقية صارمة. نزيل جميع الشوائب — الماء وجزيئات الطعام والملوثات — لتحضيرها للتحويل إلى وقود عالي الجودة." },
     "svc3.title": { en: "Thermochemical Conversion", fr: "Conversion thermochimique", ar: "التحويل الكيميائي الحراري" },
-    "svc3.desc": { en: "Our optimized proprietary process converts pre-treated oils into stable renewable diesel using advanced thermochemical methods. Date pits are integrated as an economic catalyst, reducing production costs.", fr: "Notre processus propriétaire optimisé convertit les huiles pré-traitées en diesel renouvelable stable en utilisant des méthodes thermochimiques avancées. Les noyaux de dattes sont intégrés comme catalyseur économique, réduisant les coûts de production.", ar: "عمليتنا المحسّنة الخاصة تحوّل الزيوت المعالجة إلى ديزل متجدد مستقر باستخدام طرق كيميائية حرارية متقدمة. يتم دمج نوى التمر كمحفز اقتصادي لتقليل تكاليف الإنتاج." },
+    "svc3.desc": { en: "Our optimized proprietary process converts pre-treated oils into stable premium oil using advanced thermochemical methods. advanced additives are integrated as an economic catalyst, reducing production costs.", fr: "Notre processus propriétaire optimisé convertit les huiles pré-traitées en huile premium stable en utilisant des méthodes thermochimiques avancées. Les additifs avancés sont intégrés comme catalyseur économique, réduisant les coûts de production.", ar: "عمليتنا المحسّنة الخاصة تحوّل الزيوت المعالجة إلى زيت ممتاز مستقر باستخدام طرق كيميائية حرارية متقدمة. يتم دمج ضافات متقدمة كمحفز اقتصادي لتقليل تكاليف الإنتاج." },
     "svc4.title": { en: "Quality Assurance", fr: "Assurance qualité", ar: "ضمان الجودة" },
-    "svc4.desc": { en: "Every batch of renewable diesel is tested and validated for performance, stability, and engine compatibility. We ensure our fuel meets the highest standards before it reaches our clients.", fr: "Chaque lot de diesel renouvelable est testé et validé pour ses performances, sa stabilité et sa compatibilité moteur. Nous veillons à ce que notre carburant réponde aux normes les plus élevées avant d'atteindre nos clients.", ar: "يتم اختبار كل دفعة من الديزل المتجدد والتحقق من أدائها واستقرارها وتوافقها مع المحركات. نضمن أن وقودنا يلبي أعلى المعايير قبل وصوله لعملائنا." },
+    "svc4.desc": { en: "Every batch of premium oil is tested and validated for performance, stability, and engine compatibility. We ensure our fuel meets the highest standards before it reaches our clients.", fr: "Chaque lot de huile premium est testé et validé pour ses performances, sa stabilité et sa compatibilité moteur. Nous veillons à ce que notre carburant réponde aux normes les plus élevées avant d'atteindre nos clients.", ar: "يتم اختبار كل دفعة من الديزل المتجدد والتحقق من أدائها واستقرارها وتوافقها مع المحركات. نضمن أن وقودنا يلبي أعلى المعايير قبل وصوله لعملائنا." },
     "svc5.title": { en: "B2B Fuel Distribution", fr: "Distribution B2B de carburant", ar: "توزيع الوقود للشركات" },
-    "svc5.desc": { en: "We deliver renewable diesel directly to business clients — municipalities, transport fleets, agricultural operations, and industrial sites — through reliable long-term supply contracts.", fr: "Nous livrons le diesel renouvelable directement aux clients professionnels — municipalités, flottes de transport, exploitations agricoles et sites industriels — via des contrats d'approvisionnement fiables à long terme.", ar: "نوصّل الديزل المتجدد مباشرة للعملاء من الشركات — البلديات وأساطيل النقل والعمليات الزراعية والمواقع الصناعية — من خلال عقود توريد طويلة الأمد." },
+    "svc5.desc": { en: "We deliver premium oil directly to business clients — municipalities, transport fleets, agricultural operations, and industrial sites — through reliable long-term supply contracts.", fr: "Nous livrons le huile premium directement aux clients professionnels — municipalités, flottes de transport, exploitations agricoles et sites industriels — via des contrats d'approvisionnement fiables à long terme.", ar: "نوصّل الديزل المتجدد مباشرة للعملاء من الشركات — البلديات وأساطيل النقل والعمليات الزراعية والمواقع الصناعية — من خلال عقود توريد طويلة الأمد." },
     "svc6.title": { en: "Performance Monitoring", fr: "Suivi des performances", ar: "مراقبة الأداء" },
-    "svc6.desc": { en: "Ongoing fuel quality monitoring, performance analytics, and technical support for all our B2B clients. We track engine performance metrics to ensure optimal results from our renewable diesel.", fr: "Suivi continu de la qualité du carburant, analyses de performance et support technique pour tous nos clients B2B. Nous suivons les métriques de performance des moteurs pour garantir des résultats optimaux.", ar: "مراقبة مستمرة لجودة الوقود وتحليلات الأداء والدعم الفني لجميع عملائنا. نتابع مقاييس أداء المحركات لضمان نتائج مثالية." },
+    "svc6.desc": { en: "Ongoing fuel quality monitoring, performance analytics, and technical support for all our B2B clients. We track engine performance metrics to ensure optimal results from our premium oil.", fr: "Suivi continu de la qualité du carburant, analyses de performance et support technique pour tous nos clients B2B. Nous suivons les métriques de performance des moteurs pour garantir des résultats optimaux.", ar: "مراقبة مستمرة لجودة الوقود وتحليلات الأداء والدعم الفني لجميع عملائنا. نتابع مقاييس أداء المحركات لضمان نتائج مثالية." },
     "svc7.title": { en: "Technical Consulting", fr: "Conseil technique", ar: "استشارات تقنية" },
     "svc7.desc": { en: "Expert guidance on transitioning to renewable fuels, fleet conversion planning, and environmental compliance. We help organizations integrate green energy into their operations seamlessly.", fr: "Accompagnement expert pour la transition vers les carburants renouvelables, la planification de conversion des flottes et la conformité environnementale. Nous aidons les organisations à intégrer l'énergie verte dans leurs opérations.", ar: "إرشاد متخصص حول الانتقال إلى الوقود المتجدد وتخطيط تحويل الأساطيل والامتثال البيئي. نساعد المؤسسات على دمج الطاقة الخضراء في عملياتها." },
     "svc8.title": { en: "Waste Management Solutions", fr: "Solutions de gestion des déchets", ar: "حلول إدارة النفايات" },
-    "svc8.desc": { en: "Comprehensive used cooking oil disposal services for restaurants and food industries. We turn your waste liability into an environmental solution — and you may receive compensation for your oils.", fr: "Services complets d'élimination des huiles de cuisson usagées pour les restaurants et les industries alimentaires. Nous transformons votre responsabilité de déchets en solution environnementale — et vous pouvez recevoir une compensation pour vos huiles.", ar: "خدمات شاملة للتخلص من زيوت الطهي المستعملة للمطاعم والصناعات الغذائية. نحوّل مسؤولية نفاياتك إلى حل بيئي — وقد تحصل على تعويض مقابل زيوتك." },
+    "svc8.desc": { en: "Comprehensive used motor oil disposal services for restaurants and food industries. We turn your waste liability into an environmental solution — and you may receive compensation for your oils.", fr: "Services complets d'élimination des huiles moteur usagées pour les restaurants et les industries alimentaires. Nous transformons votre responsabilité de déchets en solution environnementale — et vous pouvez recevoir une compensation pour vos huiles.", ar: "خدمات شاملة للتخلص من زيوت المحركات المستعملة للمطاعم والصناعات الغذائية. نحوّل مسؤولية نفاياتك إلى حل بيئي — وقد تحصل على تعويض مقابل زيوتك." },
     "svc9.title": { en: "Environmental Compliance", fr: "Conformité environnementale", ar: "الامتثال البيئي" },
     "svc9.desc": { en: "Help businesses and municipalities meet environmental regulations through proper used oil disposal and the adoption of cleaner fuel alternatives. Documentation and reporting included.", fr: "Aider les entreprises et les municipalités à respecter les réglementations environnementales grâce à une élimination appropriée des huiles usagées et à l'adoption d'alternatives de carburant plus propres. Documentation et rapports inclus.", ar: "مساعدة الشركات والبلديات على الامتثال للوائح البيئية من خلال التخلص السليم من الزيوت المستعملة واعتماد بدائل وقود أنظف. تشمل التوثيق والتقارير." },
     "services.why.tag": { en: "Why Choose ECO RECOVER OIL", fr: "Pourquoi choisir ECO RECOVER OIL", ar: "لماذا تختار يكو ريكوفر ويل" },
     "services.why.title": { en: "Benefits for Your Business", fr: "Avantages pour votre entreprise", ar: "الفوائد لعملك" },
     "services.why1.title": { en: "Significant Cost Savings", fr: "Économies significatives", ar: "توفير كبير في التكاليف" },
-    "services.why1.desc": { en: "Our renewable diesel costs significantly less than conventional diesel, directly reducing your fuel expenses.", fr: "Notre diesel renouvelable coûte nettement moins que le diesel conventionnel, réduisant directement vos dépenses de carburant.", ar: "ديزلنا المتجدد يكلف أقل بكثير من الديزل التقليدي، مما يقلل نفقات الوقود مباشرة." },
+    "services.why1.desc": { en: "Our premium oil costs significantly less than conventional diesel, directly reducing your fuel expenses.", fr: "Notre huile premium coûte nettement moins que le diesel conventionnel, réduisant directement vos dépenses de carburant.", ar: "ديزلنا المتجدد يكلف أقل بكثير من الديزل التقليدي، مما يقلل نفقات الوقود مباشرة." },
     "services.why2.title": { en: "Environmental Compliance", fr: "Conformité environnementale", ar: "الامتثال البيئي" },
     "services.why2.desc": { en: "Meet and exceed environmental regulations with certified clean fuel — great for corporate sustainability reports.", fr: "Respecter et dépasser les réglementations environnementales avec un carburant propre certifié — idéal pour les rapports de développement durable.", ar: "تلبية وتجاوز اللوائح البيئية بوقود نظيف معتمد — ممتاز لتقارير الاستدامة." },
     "services.why3.title": { en: "Zero Engine Modifications", fr: "Zéro modification moteur", ar: "صفر تعديلات على المحرك" },
-    "services.why3.desc": { en: "Our renewable diesel works in all existing diesel engines without any modifications or adjustments needed.", fr: "Notre diesel renouvelable fonctionne dans tous les moteurs diesel existants sans aucune modification nécessaire.", ar: "ديزلنا المتجدد يعمل في جميع محركات الديزل الحالية بدون أي تعديلات." },
+    "services.why3.desc": { en: "Our premium oil works in all existing diesel engines without any modifications or adjustments needed.", fr: "Notre huile premium fonctionne dans tous les moteurs diesel existants sans aucune modification nécessaire.", ar: "ديزلنا المتجدد يعمل في جميع محركات الديزل الحالية بدون أي تعديلات." },
     "services.why4.title": { en: "Long-Term Contracts", fr: "Contrats à long terme", ar: "عقود طويلة الأمد" },
     "services.why4.desc": { en: "Secure, predictable fuel supply with long-term agreements that protect you from market price volatility.", fr: "Approvisionnement en carburant sécurisé et prévisible avec des accords à long terme qui vous protègent de la volatilité des prix.", ar: "إمداد وقود آمن ومتوقع مع اتفاقيات طويلة الأمد تحميك من تقلبات أسعار السوق." },
     "services.why5.title": { en: "Technical Support", fr: "Support technique", ar: "الدعم الفني" },
@@ -799,7 +799,7 @@ const translations = {
     "contact.form.company": { en: "Company / Organization", fr: "Entreprise / Organisation", ar: "الشركة / المؤسسة" },
     "contact.form.interest": { en: "Area of Interest *", fr: "Domaine d'intérêt *", ar: "مجال الاهتمام *" },
     "contact.form.select": { en: "Select an option...", fr: "Sélectionnez une option...", ar: "اختر خياراً..." },
-    "contact.form.opt1": { en: "Renewable Diesel Supply (B2B)", fr: "Approvisionnement en diesel renouvelable (B2B)", ar: "توريد الديزل المتجدد (B2B)" },
+    "contact.form.opt1": { en: "premium oil Supply (B2B)", fr: "Approvisionnement en huile premium (B2B)", ar: "توريد الديزل المتجدد (B2B)" },
     "contact.form.opt2": { en: "Used Oil Collection Service", fr: "Service de collecte d'huiles usagées", ar: "خدمة جمع الزيوت المستعملة" },
     "contact.form.opt3": { en: "Partnership Opportunity", fr: "Opportunité de partenariat", ar: "فرصة شراكة" },
     "contact.form.opt4": { en: "Investment Interest", fr: "Intérêt d'investissement", ar: "اهتمام بالاستثمار" },
@@ -811,16 +811,16 @@ const translations = {
     "contact.form.submit": { en: "Send Message →", fr: "Envoyer le message →", ar: "إرسال الرسالة →" },
     "contact.faq.tag": { en: "FAQ", fr: "FAQ", ar: "الأسئلة الشائعة" },
     "contact.faq.title": { en: "Frequently Asked Questions", fr: "Questions fréquemment posées", ar: "الأسئلة الشائعة" },
-    "contact.faq1.title": { en: "What is renewable diesel?", fr: "Qu'est-ce que le diesel renouvelable ?", ar: "ما هو الديزل المتجدد؟" },
-    "contact.faq1.desc": { en: "Renewable diesel is a clean fuel produced from waste oils and biomass. Unlike biodiesel, it is chemically identical to conventional diesel and works in all engines without modifications.", fr: "Le diesel renouvelable est un carburant propre produit à partir d'huiles usagées et de biomasse. Contrairement au biodiesel, il est chimiquement identique au diesel conventionnel et fonctionne dans tous les moteurs sans modification.", ar: "الديزل المتجدد هو وقود نظيف يُنتج من الزيوت المستعملة والكتلة الحيوية. على عكس البيوديزل، فهو مطابق كيميائياً للديزل التقليدي ويعمل في جميع المحركات بدون تعديلات." },
+    "contact.faq1.title": { en: "What is premium oil?", fr: "Qu'est-ce que le huile premium ?", ar: "ما هو الديزل المتجدد؟" },
+    "contact.faq1.desc": { en: "premium oil is a clean fuel produced from waste oils and biomass. Unlike biodiesel, it is chemically identical to conventional diesel and works in all engines without modifications.", fr: "Le huile premium est un carburant propre produit à partir d'huiles usagées et de biomasse. Contrairement au biodiesel, il est chimiquement identique au diesel conventionnel et fonctionne dans tous les moteurs sans modification.", ar: "الديزل المتجدد هو وقود نظيف يُنتج من الزيوت المستعملة والكتلة الحيوية. على عكس البيوديزل، فهو مطابق كيميائياً للديزل التقليدي ويعمل في جميع المحركات بدون تعديلات." },
     "contact.faq2.title": { en: "How much can I save?", fr: "Combien puis-je économiser ?", ar: "كم يمكنني التوفير؟" },
-    "contact.faq2.desc": { en: "Savings depend on volume and contract terms, but our renewable diesel costs up to 40% less than conventional diesel. Contact us for a personalized quote.", fr: "Les économies dépendent du volume et des termes du contrat, mais notre diesel renouvelable coûte jusqu'à 40% de moins que le diesel conventionnel. Contactez-nous pour un devis personnalisé.", ar: "يعتمد التوفير على الحجم وشروط العقد، لكن ديزلنا المتجدد يكلف أقل بنسبة تصل إلى 40% من الديزل التقليدي. اتصل بنا للحصول على عرض أسعار مخصص." },
+    "contact.faq2.desc": { en: "Savings depend on volume and contract terms, but our premium oil costs up to 40% less than conventional diesel. Contact us for a personalized quote.", fr: "Les économies dépendent du volume et des termes du contrat, mais notre huile premium coûte jusqu'à 40% de moins que le diesel conventionnel. Contactez-nous pour un devis personnalisé.", ar: "يعتمد التوفير على الحجم وشروط العقد، لكن ديزلنا المتجدد يكلف أقل بنسبة تصل إلى 40% من الديزل التقليدي. اتصل بنا للحصول على عرض أسعار مخصص." },
     "contact.faq3.title": { en: "Is it safe for my engines?", fr: "Est-ce sûr pour mes moteurs ?", ar: "هل هو آمن لمحركاتي؟" },
-    "contact.faq3.desc": { en: "Absolutely. Our renewable diesel is fully compatible with all existing diesel engines — cars, trucks, generators, farm equipment — with no modifications needed.", fr: "Absolument. Notre diesel renouvelable est entièrement compatible avec tous les moteurs diesel existants — voitures, camions, générateurs, équipements agricoles — sans aucune modification nécessaire.", ar: "بالتأكيد. ديزلنا المتجدد متوافق تماماً مع جميع محركات الديزل الحالية — السيارات والشاحنات والمولدات والمعدات الزراعية — بدون أي تعديلات." },
+    "contact.faq3.desc": { en: "Absolutely. Our premium oil is fully compatible with all existing diesel engines — cars, trucks, generators, farm equipment — with no modifications needed.", fr: "Absolument. Notre huile premium est entièrement compatible avec tous les moteurs diesel existants — voitures, camions, générateurs, équipements agricoles — sans aucune modification nécessaire.", ar: "بالتأكيد. ديزلنا المتجدد متوافق تماماً مع جميع محركات الديزل الحالية — السيارات والشاحنات والمولدات والمعدات الزراعية — بدون أي تعديلات." },
     "contact.faq4.title": { en: "How do I start as a client?", fr: "Comment devenir client ?", ar: "كيف أبدأ كعميل؟" },
     "contact.faq4.desc": { en: "Simply fill out the contact form above or email us. We'll schedule a consultation to understand your needs and provide a tailored proposal.", fr: "Remplissez simplement le formulaire de contact ci-dessus ou envoyez-nous un e-mail. Nous programmerons une consultation pour comprendre vos besoins et fournir une proposition sur mesure.", ar: "ببساطة املأ نموذج الاتصال أعلاه أو راسلنا عبر البريد الإلكتروني. سنحدد موعداً للاستشارة لفهم احتياجاتك وتقديم عرض مخصص." },
-    "contact.faq5.title": { en: "Can I sell my used cooking oil?", fr: "Puis-je vendre mon huile de cuisson usagée ?", ar: "هل يمكنني بيع زيت الطهي المستعمل؟" },
-    "contact.faq5.desc": { en: "Yes! We collect used cooking oils from restaurants, hotels, and food industries. Contact us to set up a regular collection schedule.", fr: "Oui ! Nous collectons les huiles de cuisson usagées des restaurants, hôtels et industries alimentaires. Contactez-nous pour mettre en place un calendrier de collecte régulier.", ar: "نعم! نجمع زيوت الطهي المستعملة من المطاعم والفنادق والصناعات الغذائية. اتصل بنا لإعداد جدول جمع منتظم." },
+    "contact.faq5.title": { en: "Can I sell my used motor oil?", fr: "Puis-je vendre mon huile moteur usagée ?", ar: "هل يمكنني بيع زيت المحركات المستعمل؟" },
+    "contact.faq5.desc": { en: "Yes! We collect used motor oils from restaurants, hotels, and food industries. Contact us to set up a regular collection schedule.", fr: "Oui ! Nous collectons les huiles moteur usagées des restaurants, hôtels et industries alimentaires. Contactez-nous pour mettre en place un calendrier de collecte régulier.", ar: "نعم! نجمع زيوت المحركات المستعملة من المطاعم والفنادق والصناعات الغذائية. اتصل بنا لإعداد جدول جمع منتظم." },
     "contact.faq6.title": { en: "Are you looking for investors?", fr: "Cherchez-vous des investisseurs ?", ar: "هل تبحثون عن مستثمرين؟" },
     "contact.faq6.desc": { en: 'We welcome discussions with aligned investors who share our vision for clean energy in Algeria. Select "Investment Interest" in the form above.', fr: 'Nous accueillons les discussions avec des investisseurs alignés qui partagent notre vision de l\'énergie propre en Algérie. Sélectionnez "Intérêt d\'investissement" dans le formulaire ci-dessus.', ar: 'نرحب بالنقاشات مع المستثمرين المتوافقين الذين يشاركوننا رؤيتنا للطاقة النظيفة في الجزائر. اختر "اهتمام بالاستثمار" في النموذج أعلاه.' },
 
