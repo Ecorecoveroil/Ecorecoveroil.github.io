@@ -145,9 +145,9 @@ const translations = {
         ar: "الحلول الطاقوية الحالية مكلفة ومعتمدة على الاستيراد وغير متكيفة مع السياق المحلي الجزائري."
     },
     "problem.datepits.title": {
-        en: "Wasted advanced additives",
-        fr: "additifs avancés gaspillés",
-        ar: "هدر ضافات متقدمة"
+        en: "Wasted date pits",
+        fr: "noyaux de dattes gaspillés",
+        ar: "هدر نوى التمر"
     },
     "problem.datepits.desc": {
         en: "Algeria's massive date production generates underutilized pits — a valuable resource going to waste.",
@@ -203,13 +203,13 @@ const translations = {
     },
     "solution.feat2.title": {
         en: "Date Pit Integration",
-        fr: "Intégration des additifs avancés",
-        ar: "دمج ضافات متقدمة"
+        fr: "Intégration des noyaux de dattes",
+        ar: "دمج نوى التمر"
     },
     "solution.feat2.desc": {
-        en: "Unique use of advanced additives for cost reduction and local value creation.",
-        fr: "Utilisation unique des additifs avancés pour la réduction des coûts et la création de valeur locale.",
-        ar: "استخدام فريد لضافات متقدمة لتقليل التكاليف وخلق قيمة محلية."
+        en: "Unique use of date pits for cost reduction and local value creation.",
+        fr: "Utilisation unique des noyaux de dattes pour la réduction des coûts et la création de valeur locale.",
+        ar: "استخدام فريد لنوى التمر لتقليل التكاليف وخلق قيمة محلية."
     },
     "solution.feat3.title": {
         en: "Modular & Scalable",
@@ -254,9 +254,9 @@ const translations = {
         ar: "الجمع والتوريد"
     },
     "process.step1.desc": {
-        en: "We partner with restaurants, households, and food industries to collect used motor oils, and source advanced additives from local producers.",
-        fr: "Nous collaborons avec les restaurants, les ménages et les industries alimentaires pour collecter les huiles usagées, et nous approvisionnons en additifs avancés auprès des producteurs locaux.",
-        ar: "نتعاون مع المطاعم والأسر والصناعات الغذائية لجمع زيوت المحركات المستعملة، ونحصل على ضافات متقدمة من المنتجين المحليين."
+        en: "We partner with restaurants, households, and food industries to collect used motor oils, and source date pits from local producers.",
+        fr: "Nous collaborons avec les restaurants, les ménages et les industries alimentaires pour collecter les huiles usagées, et nous approvisionnons en noyaux de dattes auprès des producteurs locaux.",
+        ar: "نتعاون مع المطاعم والأسر والصناعات الغذائية لجمع زيوت المحركات المستعملة، ونحصل على نوى التمر من المنتجين المحليين."
     },
     "process.step2.title": {
         en: "Pre-Treatment & Filtration",
@@ -274,9 +274,9 @@ const translations = {
         ar: "التحويل الكيميائي الحراري"
     },
     "process.step3.desc": {
-        en: "Optimized thermochemical processes transform pre-treated oils into stable premium oil, with advanced additives serving as an economic catalyst.",
-        fr: "Des processus thermochimiques optimisés transforment les huiles pré-traitées en huile premium stable, les additifs avancés servant de catalyseur économique.",
-        ar: "عمليات كيميائية حرارية محسّنة تحوّل الزيوت المعالجة إلى زيت ممتاز مستقر، مع استخدام ضافات متقدمة كمحفز اقتصادي."
+        en: "Optimized thermochemical processes transform pre-treated oils into stable premium oil, with date pits serving as an economic catalyst.",
+        fr: "Des processus thermochimiques optimisés transforment les huiles pré-traitées en huile premium stable, les noyaux de dattes servant de catalyseur économique.",
+        ar: "عمليات كيميائية حرارية محسّنة تحوّل الزيوت المعالجة إلى زيت ممتاز مستقر، مع استخدام نوى التمر كمحفز اقتصادي."
     },
     "process.step4.title": {
         en: "Quality Testing",
@@ -317,13 +317,13 @@ const translations = {
     },
     "adv1.title": {
         en: "Date Pit Innovation",
-        fr: "Innovation additifs avancés",
-        ar: "ابتكار ضافات متقدمة"
+        fr: "Innovation noyaux de dattes",
+        ar: "ابتكار نوى التمر"
     },
     "adv1.desc": {
-        en: "Unique use of advanced additives as an economic lever — an approach no one else is using at this scale.",
-        fr: "Utilisation unique des additifs avancés comme levier économique — une approche que personne d'autre n'utilise à cette échelle.",
-        ar: "استخدام فريد لضافات متقدمة كرافعة اقتصادية — نهج لا يستخدمه أحد آخر بهذا الحجم."
+        en: "Unique use of date pits as an economic lever — an approach no one else is using at this scale.",
+        fr: "Utilisation unique des noyaux de dattes comme levier économique — une approche que personne d'autre n'utilise à cette échelle.",
+        ar: "استخدام فريد لنوى التمر كرافعة اقتصادية — نهج لا يستخدمه أحد آخر بهذا الحجم."
     },
     "adv2.title": {
         en: "Local Adaptation",
@@ -341,9 +341,9 @@ const translations = {
         ar: "تكاليف منخفضة جداً"
     },
     "adv3.desc": {
-        en: "Raw material costs near zero — used oils and advanced additives are waste products, giving us an unmatched cost structure.",
-        fr: "Coûts des matières premières proches de zéro — les huiles usagées et les additifs avancés sont des déchets, nous donnant une structure de coûts inégalée.",
-        ar: "تكاليف المواد الخام قريبة من الصفر — الزيوت المستعملة وضافات متقدمة هي نفايات، مما يمنحنا هيكل تكاليف لا مثيل له."
+        en: "Raw material costs near zero — used oils and date pits are waste products, giving us an unmatched cost structure.",
+        fr: "Coûts des matières premières proches de zéro — les huiles usagées et les noyaux de dattes sont des déchets, nous donnant une structure de coûts inégalée.",
+        ar: "تكاليف المواد الخام قريبة من الصفر — الزيوت المستعملة ونوى التمر هي نفايات، مما يمنحنا هيكل تكاليف لا مثيل له."
     },
     "adv4.title": {
         en: "Simpler Technology",
@@ -513,7 +513,7 @@ const translations = {
         ar: "ما يدعمنا"
     },
     "res1": { en: "Technical expertise (energy & process engineering)", fr: "Expertise technique (ingénierie énergétique et procédés)", ar: "خبرة تقنية (هندسة الطاقة والعمليات)" },
-    "res2": { en: "Local raw materials (oils + advanced additives)", fr: "Matières premières locales (huiles + additifs avancés)", ar: "مواد خام محلية (زيوت + ضافات متقدمة)" },
+    "res2": { en: "Local raw materials (oils + date pits)", fr: "Matières premières locales (huiles + noyaux de dattes)", ar: "مواد خام محلية (زيوت + نوى التمر)" },
     "res3": { en: "Pilot production unit", fr: "Unité de production pilote", ar: "وحدة إنتاج تجريبية" },
     "res4": { en: "University support & research", fr: "Soutien universitaire et recherche", ar: "دعم جامعي وبحثي" },
     "res5": { en: "Institutional partners", fr: "Partenaires institutionnels", ar: "شركاء مؤسسيون" },
@@ -611,9 +611,9 @@ const translations = {
         ar: "ولدت يكو ريكوفر ويل من ملاحظة بسيطة لكنها قوية: تنتج الجزائر ملايين اللترات من زيت المحركات المستعمل كل عام، يتم التخلص من معظمها بشكل غير سليم، مما يلوث مصادر المياه والتربة."
     },
     "about.story.p2": {
-        en: "At the same time, the country's vast date production generates enormous quantities of advanced additives — an underutilized resource with significant energy potential.",
-        fr: "En même temps, la vaste production de dattes du pays génère d'énormes quantités de additifs avancés — une ressource sous-utilisée avec un potentiel énergétique significatif.",
-        ar: "في الوقت نفسه، يولّد إنتاج التمور الضخم في البلاد كميات هائلة من ضافات متقدمة — مورد غير مستغل ذو إمكانات طاقوية كبيرة."
+        en: "At the same time, the country's vast date production generates enormous quantities of date pits — an underutilized resource with significant energy potential.",
+        fr: "En même temps, la vaste production de dattes du pays génère d'énormes quantités de noyaux de dattes — une ressource sous-utilisée avec un potentiel énergétique significatif.",
+        ar: "في الوقت نفسه، يولّد إنتاج التمور الضخم في البلاد كميات هائلة من نوى التمر — مورد غير مستغل ذو إمكانات طاقوية كبيرة."
     },
     "about.story.p3": {
         en: "We saw an opportunity to solve two problems at once: eliminate environmental pollution while producing affordable, clean diesel fuel from 100% local resources.",
@@ -621,9 +621,9 @@ const translations = {
         ar: "رأينا فرصة لحل مشكلتين في آن واحد: القضاء على التلوث البيئي مع إنتاج ديزل نظيف وبأسعار معقولة من موارد محلية 100%."
     },
     "about.story.p4": {
-        en: "Our innovative approach combines optimized thermochemical conversion with the unique use of advanced additives as an economic lever, creating a solution that is simple, modular, and ready for industrialization.",
-        fr: "Notre approche innovante combine une conversion thermochimique optimisée avec l'utilisation unique des additifs avancés comme levier économique, créant une solution simple, modulaire et prête pour l'industrialisation.",
-        ar: "يجمع نهجنا المبتكر بين التحويل الكيميائي الحراري المحسّن والاستخدام الفريد لضافات متقدمة كرافعة اقتصادية، مما يخلق حلاً بسيطاً ومعيارياً وجاهزاً للتصنيع."
+        en: "Our innovative approach combines optimized thermochemical conversion with the unique use of date pits as an economic lever, creating a solution that is simple, modular, and ready for industrialization.",
+        fr: "Notre approche innovante combine une conversion thermochimique optimisée avec l'utilisation unique des noyaux de dattes comme levier économique, créant une solution simple, modulaire et prête pour l'industrialisation.",
+        ar: "يجمع نهجنا المبتكر بين التحويل الكيميائي الحراري المحسّن والاستخدام الفريد لنوى التمر كرافعة اقتصادية، مما يخلق حلاً بسيطاً ومعيارياً وجاهزاً للتصنيع."
     },
     "about.mv.tag": {
         en: "What Drives Us",
@@ -704,9 +704,9 @@ const translations = {
     },
     "about.m2.title": { en: "Process Optimization", fr: "Optimisation du processus", ar: "تحسين العملية" },
     "about.m2.desc": {
-        en: "Optimizing the conversion process, incorporating advanced additives, and validating fuel quality and engine compatibility.",
-        fr: "Optimisation du processus de conversion, intégration des additifs avancés et validation de la qualité du carburant et de la compatibilité moteur.",
-        ar: "تحسين عملية التحويل، ودمج ضافات متقدمة، والتحقق من جودة الوقود وتوافق المحرك."
+        en: "Optimizing the conversion process, incorporating date pits, and validating fuel quality and engine compatibility.",
+        fr: "Optimisation du processus de conversion, intégration des noyaux de dattes et validation de la qualité du carburant et de la compatibilité moteur.",
+        ar: "تحسين عملية التحويل، ودمج نوى التمر، والتحقق من جودة الوقود وتوافق المحرك."
     },
     "about.m3.title": { en: "Pilot Unit Development", fr: "Développement de l'unité pilote", ar: "تطوير الوحدة التجريبية" },
     "about.m3.desc": {
@@ -748,7 +748,7 @@ const translations = {
     "svc2.title": { en: "Oil Pre-Treatment", fr: "Pré-traitement des huiles", ar: "المعالجة الأولية للزيوت" },
     "svc2.desc": { en: "Collected oils undergo rigorous filtration, dehydration, and purification processes. We remove all impurities — water, food particles, and contaminants — to prepare them for conversion into high-quality fuel.", fr: "Les huiles collectées subissent des processus rigoureux de filtration, déshydratation et purification. Nous éliminons toutes les impuretés — eau, particules alimentaires et contaminants — pour les préparer à la conversion en carburant de haute qualité.", ar: "تخضع الزيوت المجمعة لعمليات ترشيح وتجفيف وتنقية صارمة. نزيل جميع الشوائب — الماء وجزيئات الطعام والملوثات — لتحضيرها للتحويل إلى وقود عالي الجودة." },
     "svc3.title": { en: "Thermochemical Conversion", fr: "Conversion thermochimique", ar: "التحويل الكيميائي الحراري" },
-    "svc3.desc": { en: "Our optimized proprietary process converts pre-treated oils into stable premium oil using advanced thermochemical methods. advanced additives are integrated as an economic catalyst, reducing production costs.", fr: "Notre processus propriétaire optimisé convertit les huiles pré-traitées en huile premium stable en utilisant des méthodes thermochimiques avancées. Les additifs avancés sont intégrés comme catalyseur économique, réduisant les coûts de production.", ar: "عمليتنا المحسّنة الخاصة تحوّل الزيوت المعالجة إلى زيت ممتاز مستقر باستخدام طرق كيميائية حرارية متقدمة. يتم دمج ضافات متقدمة كمحفز اقتصادي لتقليل تكاليف الإنتاج." },
+    "svc3.desc": { en: "Our optimized proprietary process converts pre-treated oils into stable premium oil using advanced thermochemical methods. date pits are integrated as an economic catalyst, reducing production costs.", fr: "Notre processus propriétaire optimisé convertit les huiles pré-traitées en huile premium stable en utilisant des méthodes thermochimiques avancées. Les noyaux de dattes sont intégrés comme catalyseur économique, réduisant les coûts de production.", ar: "عمليتنا المحسّنة الخاصة تحوّل الزيوت المعالجة إلى زيت ممتاز مستقر باستخدام طرق كيميائية حرارية متقدمة. يتم دمج نوى التمر كمحفز اقتصادي لتقليل تكاليف الإنتاج." },
     "svc4.title": { en: "Quality Assurance", fr: "Assurance qualité", ar: "ضمان الجودة" },
     "svc4.desc": { en: "Every batch of premium oil is tested and validated for performance, stability, and engine compatibility. We ensure our fuel meets the highest standards before it reaches our clients.", fr: "Chaque lot de huile premium est testé et validé pour ses performances, sa stabilité et sa compatibilité moteur. Nous veillons à ce que notre carburant réponde aux normes les plus élevées avant d'atteindre nos clients.", ar: "يتم اختبار كل دفعة من الديزل المتجدد والتحقق من أدائها واستقرارها وتوافقها مع المحركات. نضمن أن وقودنا يلبي أعلى المعايير قبل وصوله لعملائنا." },
     "svc5.title": { en: "B2B Fuel Distribution", fr: "Distribution B2B de carburant", ar: "توزيع الوقود للشركات" },
